@@ -1,0 +1,7 @@
+Carrot 500
+Potato 20
+Tomato 30
+Brinjal 5
+Milk 7
+Beetroot 5
+Biscuits 10 
